@@ -1,5 +1,9 @@
 # 2025-02-13-git_and_github
 
+- `git push` - Uploads local commits from a branch to a remote repository (e.g., GitHub). This updates the remote branch with your latest changes.
+
+- `git pull` - Fetches the latest changes from a remote branch and merges them into the current local branch, ensuring your local code is up to date.
+
 - `git branch` – Lists all branches in the repository or creates/deletes a branch when used with additional options.
 
 - `git switch` – Switches to a different branch or restores files from a commit.
