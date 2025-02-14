@@ -1,5 +1,9 @@
 # 2025-02-13-git_and_github
 
+- `git add` - Stages changes in the specified file(s) for the next commit, preparing them to be saved in the repository. `Use git add . to stage all changes.
+
+- `git commit` - Saves the staged changes as a new commit in the local repository with a descriptive message explaining the changes.
+
 - `git push` - Uploads local commits from a branch to a remote repository (e.g., GitHub). This updates the remote branch with your latest changes.
 
 - `git pull` - Fetches the latest changes from a remote branch and merges them into the current local branch, ensuring your local code is up to date.
